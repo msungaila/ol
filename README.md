@@ -31,4 +31,7 @@ DEALINGS IN THE SOFTWARE.
 ## IMPORTANT
 
 At second half of 2020 Red Hat changed Subscription License and, due to this change, you can not do a simple conversion even with 100% binary compatibility between RHEL and OL systems.
+
+I'm not a lawyer and can not say anything about it.
+
 Due to this License change, with you want to convert a RHEL system to any other Linux flavor, you need to do a full conversion (replace all RPM packages), when available, or do a system reinstall.
