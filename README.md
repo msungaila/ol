@@ -4,6 +4,10 @@
 
 You can find some usefull scripts to manage Oracle Linux systems or other systems like RHEL and CentOS (at least until version 7.X).
 
+## Disclaimer
+
+All code you can find here is not recognized or supported by any vendor and is provided for study or reference.
+
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a
