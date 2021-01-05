@@ -1,8 +1,8 @@
 # ol
 
-# Oracle Linux management scripts
+## Management Scripts
 
-You can find some usefull scripts to manage OL systems or other systems like RHEL and CentOS when migrating to OL.
+You can find some usefull scripts to manage Oracle Linux systems or other systems like RHEL and CentOS (at least until version 7.X).
 
 ## License
 
