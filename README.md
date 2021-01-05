@@ -1,5 +1,6 @@
 # ol
-#Oracle Linux management scripts
+
+# Oracle Linux management scripts
 
 You can find some usefull scripts to manage OL systems or other systems like RHEL and CentOS when migrating to OL.
 
